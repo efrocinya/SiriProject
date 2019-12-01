@@ -1,0 +1,4 @@
+#Sun Dec 01 12:03:03 MSK 2019
+base.0=C\:\\Users\\Root\\Documents\\City which not exist\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
